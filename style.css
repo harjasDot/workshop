@@ -1,0 +1,23 @@
+a{
+  padding: 10px;
+}
+body{
+  text-align: center;
+  padding-top:30px;
+  padding-bottom:30px;
+  background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC6drQJIEQSPsN5YTgu188b69ErFzxT77clA&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+p{
+  text-align:center;
+}
+ol {
+  padding-left: 0;
+  list-style-position: inside;
+}
